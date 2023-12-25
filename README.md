@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @besmelh
-- 👀 I’m currently interested in Web and App Development.
-- 🌱 I’m still discovering various other fields in Software Development.
+- 👀 I’m currently interested in Computer Graphics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/besmelh-alshaalan-50b5b4194/).
 
 <!---
